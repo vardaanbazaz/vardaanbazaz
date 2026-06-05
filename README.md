@@ -1,67 +1,121 @@
 # Vardaan Bazaz
 
 <p align="center">
-  <img src="assets/banner.png" alt="Systems Schema" width="100%" style="border-radius: 4px; border: 1px solid #30363d; margin: 1.5em 0;" />
+  <img src="assets/images/banner.png" alt="Systems Schema Banner" width="100%" style="border-radius: 4px; border: 1px solid #30363d; margin: 1em 0;" />
 </p>
 
-### software engineer & applied researcher
+<p align="center">
+  <strong>Software Engineer & Applied Researcher</strong>
+</p>
+
+<p align="center">
+  <a href="https://vardaanbazaz.com">Portfolio</a> • 
+  <a href="https://linkedin.com/in/vardaanbazaz">LinkedIn</a> • 
+  <a href="mailto:vardaanbazaz@gmail.com">Email</a>
+</p>
 
 ---
 
-### [01] Philosophy
-> "Complexity is easy; simplicity is deliberate. I build systems that bridge the gap between computational research and production reality—focused on predictability, performance, and craftsmanship."
+### ✦ Philosophy
+> "Complexity is default; simplicity is deliberate. I design robust, performant systems where mathematical research meets production software."
 
-I am a software engineer and applied ML researcher focused on the architecture of intelligent systems. My practice centers on the lifecycle of data: from ingestion pipelines and computer vision training runs to full-stack SaaS backends and high-performance inference APIs. I construct systems with a commitment to long-term scalability and clean code.
-
----
-
-### [02] Core Domains
-*   **Systems Design & SaaS** — Modular API design, distributed backends, schema normalization, and automated pipeline workflows.
-*   **Applied ML & Computer Vision** — Deep learning models, neural architecture implementation, training workflows, and scene analysis.
-*   **Full-Stack & Product Engineering** — Translating complex backend processes into fast, responsive, and intuitive web interfaces.
-*   **Applied Research** — Bridging academic papers with production implementations, focusing on optimization and edge deployment.
+I build scalable, intelligent systems—specializing in the architecture of machine learning pipelines, full-stack backends, and spatial perception models.
 
 ---
 
-### [03] Current Build Vision
-I am investigating pattern-driven abstractions in ML platform design. Specifically, I am prototyping frameworks that decouple dataset ingestion, training infrastructure, and real-time model evaluation to improve pipeline reliability and system observability.
+### ✦ Core Focus Areas
 
-**Research Directions:**
-*   *Distributed Learning:* Minimizing communication overhead in decentralized training configurations.
-*   *Vision-Language Systems:* Quantization and structural pruning techniques for resource-constrained edge environments.
-*   *Observability:* Custom instrumentation for telemetry in multi-tenant SaaS architectures.
+<table width="100%" style="border-collapse: collapse; border: none; margin: 1.5em 0;">
+  <tr style="border: none;">
+    <td width="50%" style="border: none; padding: 12px 10px; vertical-align: top;">
+      <img src="assets/icons/ai_ml.svg" width="22" height="22" align="left" style="margin-right: 12px;" />
+      <strong>AI / Machine Learning</strong>
+      <br/><small style="color: #8b949e;">Deep learning pipelines, model training, and optimization workflows.</small>
+    </td>
+    <td width="50%" style="border: none; padding: 12px 10px; vertical-align: top;">
+      <img src="assets/icons/computer_vision.svg" width="22" height="22" align="left" style="margin-right: 12px;" />
+      <strong>Computer Vision</strong>
+      <br/><small style="color: #8b949e;">Perception sensors, spatial mapping, and real-time scene analysis.</small>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td width="50%" style="border: none; padding: 12px 10px; vertical-align: top;">
+      <img src="assets/icons/systems_engineering.svg" width="22" height="22" align="left" style="margin-right: 12px;" />
+      <strong>Systems Engineering</strong>
+      <br/><small style="color: #8b949e;">High-throughput backend architectures, microservices, and databases.</small>
+    </td>
+    <td width="50%" style="border: none; padding: 12px 10px; vertical-align: top;">
+      <img src="assets/icons/full_stack.svg" width="22" height="22" align="left" style="margin-right: 12px;" />
+      <strong>Full-Stack Development</strong>
+      <br/><small style="color: #8b949e;">Translating complex backend state into responsive user interfaces.</small>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td width="50%" style="border: none; padding: 12px 10px; vertical-align: top;">
+      <img src="assets/icons/applied_research.svg" width="22" height="22" align="left" style="margin-right: 12px;" />
+      <strong>Applied Research</strong>
+      <br/><small style="color: #8b949e;">Evaluating research literature to build production-ready implementations.</small>
+    </td>
+    <td width="50%" style="border: none; padding: 12px 10px; vertical-align: top;">
+      <img src="assets/icons/product_engineering.svg" width="22" height="22" align="left" style="margin-right: 12px;" />
+      <strong>SaaS & Product</strong>
+      <br/><small style="color: #8b949e;">Modular, multi-tenant product designs optimized for reliability and growth.</small>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### [04] Featured System
+### ✦ Featured Project
 
 #### 📊 [Employee Attrition Analytics Dashboard](https://github.com/vardaanbazaz/Employee-Attrition-and-Churn-Analysis-main)
-An end-to-end telemetry and predictive analytics dashboard designed to model and diagnose corporate retention risk.
-*   **Relational Schema & ETL**: Standardized and normalized raw data structures into a multi-table MySQL schema, ensuring referential integrity and optimized queries.
-*   **Diagnostic SQL Engine**: Formulated complex SQL analysis scripts targeting key burnout factors (e.g., cross-tabulating overtime duration with compensation increments).
-*   **Predictive Pipeline**: Developed a machine learning classification pipeline in Python to estimate candidate churn rates.
-*   **Interactive BI Layer**: Designed executive-ready dashboards in Tableau and Power BI featuring key performance heatmaps and risk drivers.
+An end-to-end data pipeline and predictive analytics platform to model and diagnose corporate retention risk.
 
----
-
-### [05] Future Flagships
-*   `[ Pipeline / System Under Construction ]` — Upcoming project focusing on high-frequency streaming data ingestion and ML classification.
-*   `[ Research Implementation / Paper Replication ]` — An exploration into training and optimizing modern vision-language models for edge devices.
-
----
-
-### [06] Curated Stack
 ```
-Languages       ::  Python, TypeScript, JavaScript, SQL, C++
-Frameworks      ::  PyTorch, FastAPI, Next.js, React, Scikit-Learn
-Data & Infra    ::  MySQL, PostgreSQL, Docker, AWS, Spark, Git
+[ Ingest & Normalize ] ──> [ SQL Diagnostics ] ──> [ Churn Prediction ] ──> [ Interactive BI ]
+     MySQL Schema               MySQL Views             Python Classifier         PowerBI / Tableau
 ```
 
+*   **Engineering**: Normalized 50k+ raw records into a multi-table relational MySQL schema.
+*   **Analytics**: Developed advanced SQL scripts cross-tabulating overtime duration with compensation increments.
+*   **Machine Learning**: Designed a binary classifier in Python to predict employee attrition risk.
+*   **Visualization**: Built executive-ready dashboards in Tableau and Power BI showcasing key drivers.
+
 ---
 
-### [07] Connection
-*   **Portfolio**: [vardaanbazaz.com](https://vardaanbazaz.com)
-*   **LinkedIn**: [/in/vardaanbazaz](https://linkedin.com/in/vardaanbazaz)
+### ✦ Currently Building & Researching
+*   **ML Platforms**: Prototyping decoupled data-ingestion and model-serving pipelines for real-time inference telemetry.
+*   **Edge Inference**: Quantization strategies for vision-language models on resource-constrained devices.
+*   **Distributed Systems**: Investigating patterns for state synchronization in high-concurrency environments.
+
+---
+
+### ✦ Curated Stack
+*   **Languages** — Python, TypeScript, JavaScript, SQL, C++
+*   **Frameworks & Libraries** — PyTorch, FastAPI, Next.js, React, Scikit-Learn
+*   **Infrastructure & Data** — MySQL, PostgreSQL, Docker, AWS, Spark, Git
+
+---
+
+### ✦ Future Flagships
+
+<table width="100%" style="border-collapse: collapse; border: none; margin: 1.5em 0;">
+  <tr style="border: none;">
+    <td width="60%" style="border: none; vertical-align: middle; padding-right: 20px;">
+      <strong>⚡ EduSync</strong>
+      <p style="color: #8b949e; font-size: 0.9em; margin-top: 4px; margin-bottom: 12px;">A real-time collaborative learning platform designed for high-concurrency state synchronization and seamless document sharing.</p>
+      <strong>🛰️ V-Surveillance</strong>
+      <p style="color: #8b949e; font-size: 0.9em; margin-top: 4px; margin-bottom: 0;">An applied computer vision framework utilizing edge-optimized object tracking and action recognition models.</p>
+    </td>
+    <td width="40%" style="border: none; vertical-align: middle; text-align: center;">
+      <img src="assets/images/project_placeholder.png" alt="Project Architecture Blueprint" width="100%" style="border-radius: 4px; border: 1px solid #30363d; max-width: 200px;" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### ✦ Contact & Channels
 *   **Email**: [vardaanbazaz@gmail.com](mailto:vardaanbazaz@gmail.com)
-
----
+*   **LinkedIn**: [linkedin.com/in/vardaanbazaz](https://linkedin.com/in/vardaanbazaz)
+*   **Portfolio**: [vardaanbazaz.com](https://vardaanbazaz.com)
