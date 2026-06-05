@@ -1,4 +1,4 @@
-# Vardaan Bazaz
+# Vardaan Bajaj
 
 <p align="center">
   <img src="assets/images/banner.png" alt="Scholarly Workshop Banner" width="100%" height="220" style="object-fit: cover; border-radius: 4px; border: 1px solid #30363d;" />
