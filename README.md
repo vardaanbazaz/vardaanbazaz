@@ -1,4 +1,4 @@
-# Vardaan Bajaj
+# Vardaan Bazaz
 
 <p align="center">
   <img src="assets/images/banner.png" alt="Scholarly Workshop Banner" width="100%" height="220" style="object-fit: cover; border-radius: 4px; border: 1px solid #30363d;" />
@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <code><a href="https://vardaan-bajaj.vercel.app/" style="text-decoration: none; color: #CF9E4F;">portfolio</a></code> &nbsp;•&nbsp;
-  <code><a href="https://www.linkedin.com/in/vardaan-bajaj-a03605254/" style="text-decoration: none; color: #CF9E4F;">linkedin</a></code> &nbsp;•&nbsp;
+  <code><a href="https://vardaanbazaz.com" style="text-decoration: none; color: #CF9E4F;">portfolio</a></code> &nbsp;•&nbsp;
+  <code><a href="https://linkedin.com/in/vardaanbazaz" style="text-decoration: none; color: #CF9E4F;">linkedin</a></code> &nbsp;•&nbsp;
   <code><a href="mailto:vardaanbazaz@gmail.com" style="text-decoration: none; color: #CF9E4F;">email</a></code>
 </p>
 
@@ -59,34 +59,19 @@
 
 ---
 
-### ✦ Featured Build
+### ✦ Active Builds
 
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="65%" style="border: none; vertical-align: top; padding-right: 15px;">
-      <h4>📊 <a href="https://github.com/vardaanbazaz/Employee-Attrition-and-Churn-Analysis-main" style="color: #CF9E4F; text-decoration: none;">Employee Attrition Dashboard</a></h4>
-      <p style="margin-top: 5px; margin-bottom: 10px; color: #A89F84; font-size: 0.9em;">An end-to-end data pipeline and diagnostic analytics dashboard to model corporate retention risk.</p>
-      <ul style="font-size: 0.9em; padding-left: 20px; margin-top: 5px;">
-        <li><strong>ETL Pipeline</strong>: Normalized 50k+ records into a multi-table MySQL schema.</li>
-        <li><strong>ML Prediction</strong>: Classifier built in Python to forecast attrition risk profiles.</li>
-      </ul>
-    </td>
-    <td width="35%" style="border: none; vertical-align: middle; text-align: center;">
-      <img src="assets/images/project_placeholder.png" alt="Featured Project Card" width="100%" style="border-radius: 4px; border: 1px solid #CF9E4F; max-width: 160px;" />
-    </td>
-  </tr>
-</table>
+*   **Crop Disease Detection API** &nbsp;`[Active Development]`
+    <br/><small style="color: #A89F84;">REST API built with FastAPI and PyTorch/YOLO to classify plant pathology, return confidence scores, and automatically render Swagger docs.</small>
 
 ---
 
-### ✦ Active Builds & Research
+### ✦ Publications
 
-*   **EduSync** &nbsp;`[Active Development]`
-    <br/><small style="color: #A89F84;">Real-time collaborative state synchronization and concurrent document editing.</small>
-*   **FarmConnect** &nbsp;`[Prototype Stage]`
-    <br/><small style="color: #A89F84;">Agritech logistics optimization and dynamic vehicle routing algorithms.</small>
-*   **V-Surveillance** &nbsp;`[Research Phase]`
-    <br/><small style="color: #A89F84;">Edge-optimized action recognition pipeline using pruned & quantized vision models.</small>
+*   **[V-Surveillance: A Hybrid Deep Learning Framework for Real-Time Aerial Surveillance Using Drone Imagery](https://ieeexplore.ieee.org/abstract/document/11399085)** &nbsp;`[IEEE CICT 2026]`
+    <br/><small style="color: #A89F84;">Developed a hybrid deep learning framework optimized for real-time edge inference and drone action recognition.</small>
+*   **[An Enhanced Object-Oriented Programming-Based Web Page Linker](https://ieeexplore.ieee.org/abstract/document/10503405)** &nbsp;`[IEEE IATMSI 2024]`
+    <br/><small style="color: #A89F84;">Designed an optimized OOP architecture to streamline and automate dynamic web page linking systems.</small>
 
 ---
 
