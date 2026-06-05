@@ -12,7 +12,7 @@
 
 <p align="center">
   <code><a href="https://vardaanbazaz.com" style="text-decoration: none; color: #CF9E4F;">portfolio</a></code> &nbsp;•&nbsp;
-  <code><a href="https://linkedin.com/in/vardaanbazaz" style="text-decoration: none; color: #CF9E4F;">linkedin</a></code> &nbsp;•&nbsp;
+  <code><a href="https://www.linkedin.com/in/vardaan-bajaj-a03605254/" style="text-decoration: none; color: #CF9E4F;">linkedin</a></code> &nbsp;•&nbsp;
   <code><a href="mailto:vardaanbazaz@gmail.com" style="text-decoration: none; color: #CF9E4F;">email</a></code>
 </p>
 
