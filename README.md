@@ -90,9 +90,3 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-1E232B?style=flat-square&logo=fastapi&logoColor=CF9E4F) ![Next.js](https://img.shields.io/badge/Next.js-1E232B?style=flat-square&logo=nextdotjs&logoColor=CF9E4F) ![React](https://img.shields.io/badge/React-1E232B?style=flat-square&logo=react&logoColor=CF9E4F) ![Node.js](https://img.shields.io/badge/Node.js-1E232B?style=flat-square&logo=nodedotjs&logoColor=CF9E4F) ![WebSockets](https://img.shields.io/badge/WebSockets-1E232B?style=flat-square&logo=socketdotio&logoColor=CF9E4F) ![Yjs](https://img.shields.io/badge/Yjs-1E232B?style=flat-square&logoColor=CF9E4F)
 
 ---
-
-### ✦ Tasteful Telemetry
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vardaanbazaz&show_icons=true&theme=transparent&title_color=CF9E4F&text_color=A89F84&icon_color=D47A55&border_color=30363d&hide_title=true&hide_rank=true" alt="GitHub Stats" width="380" />
-</p>
