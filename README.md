@@ -59,34 +59,46 @@
 
 ---
 
+### ✦ Featured Systems & Applied ML
+
+**[DataVista](https://github.com/vardaanbazaz/datavista)** | *Offline-First Business Intelligence*
+A browser-native analytics platform capable of processing massive datasets locally. Engineered with a custom recursive-descent AST formula parser, framework-agnostic pivot engines, and IndexedDB for time-travel state. 
+`TypeScript` `React 18` `IndexedDB` `Zustand` `AST Parsing`
+
+**[NeuroInsight AI](https://github.com/vardaanbazaz/neuroinsight-ai)** | *Explainable Parkinson's Prediction*
+An applied machine learning research project exploring the non-invasive prediction of early-stage Parkinson's Disease. Employs a custom-engineered Feature Performance Index (fPI) and tree-based classifiers to maximize diagnostic interpretability of vocal acoustic biomarkers.
+`Python` `XGBoost` `Scikit-Learn` `Pandas`
+
+**[Employee Attrition Analytics](https://github.com/vardaanbazaz/employee-attrition-dashboard)** | *HR Flight Risk Diagnostics*
+An end-to-end data analytics system designed to diagnose corporate flight risk drivers. Normalizes raw HR telemetry via structured MySQL schemas to serve interactive, filterable Power BI and Tableau dashboards with Random Forest predictive insights.
+`SQL` `MySQL` `Power BI` `Tableau` `Python`
+
+---
+
 ### ✦ Active Builds
 
-*   **Crop Disease Detection API** &nbsp;`[Active Development]`
-    <br/><small style="color: #A89F84;">REST API built with FastAPI and PyTorch/YOLO to classify plant pathology, return confidence scores, and automatically render Swagger docs.</small>
+* **[KanbanLight](https://github.com/vardaanbazaz/kanbanlight)** &nbsp;`[Active Development]`
+    <br/><small style="color: #A89F84;">A distributed project management tool treating tasks like Git commits. Currently engineering non-destructive board branching, visual state diffing, sandboxed WebAssembly plugins, and a real-time developer WebSocket CLI.</small>
+* **[CropDoc AI](https://github.com/vardaanbazaz/cropdoc-ai)** &nbsp;`[Active Development]`
+    <br/><small style="color: #A89F84;">A production-grade, CPU-optimized computer vision inference microservice built with FastAPI and PyTorch to classify plant pathology and guarantee latency stability under strict engineering constraints.</small>
 
 ---
 
 ### ✦ Publications
 
-*   **[V-Surveillance: A Hybrid Deep Learning Framework for Real-Time Aerial Surveillance Using Drone Imagery](https://ieeexplore.ieee.org/abstract/document/11399085)** &nbsp;`[IEEE CICT 2026]`
-    <br/><small style="color: #A89F84;">Developed a hybrid deep learning framework optimized for real-time edge inference and drone action recognition.</small>
-*   **[An Enhanced Object-Oriented Programming-Based Web Page Linker](https://ieeexplore.ieee.org/abstract/document/10503405)** &nbsp;`[IEEE IATMSI 2024]`
-    <br/><small style="color: #A89F84;">Designed an optimized OOP architecture to streamline and automate dynamic web page linking systems.</small>
+* **[V-Surveillance: A Hybrid Deep Learning Framework for Real-Time Aerial Surveillance Using Drone Imagery](https://ieeexplore.ieee.org/abstract/document/11399085)** &nbsp;`[IEEE CICT 2026]`
+    <br/><small style="color: #A89F84;">Developed a three-stage hybrid deep learning framework optimizing real-time edge inference, super resolution, and tracking for UAV surveillance nodes.</small>
+* **[An Enhanced Object-Oriented Programming-Based Web Page Linker](https://ieeexplore.ieee.org/abstract/document/10503405)** &nbsp;`[IEEE IATMSI 2024]`
+    <br/><small style="color: #A89F84;">Designed an optimized OOP architecture to bypass DOM fragility by encapsulating functional divisions into polymorphic class modules.</small>
 
 ---
 
 ### ✦ Engineering Stack
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-1E232B?style=flat-square&logo=python&logoColor=CF9E4F) ![TypeScript](https://img.shields.io/badge/TypeScript-1E232B?style=flat-square&logo=typescript&logoColor=CF9E4F) ![C++](https://img.shields.io/badge/C%2B%2B-1E232B?style=flat-square&logo=cplusplus&logoColor=CF9E4F) ![SQL](https://img.shields.io/badge/SQL-1E232B?style=flat-square&logo=postgresql&logoColor=CF9E4F)
+**Languages** ![Python](https://img.shields.io/badge/Python-1E232B?style=flat-square&logo=python&logoColor=CF9E4F) ![TypeScript](https://img.shields.io/badge/TypeScript-1E232B?style=flat-square&logo=typescript&logoColor=CF9E4F) ![C++](https://img.shields.io/badge/C%2B%2B-1E232B?style=flat-square&logo=cplusplus&logoColor=CF9E4F) ![SQL](https://img.shields.io/badge/SQL-1E232B?style=flat-square&logo=postgresql&logoColor=CF9E4F)
 
-**AI & Machine Learning**  
-![PyTorch](https://img.shields.io/badge/PyTorch-1E232B?style=flat-square&logo=pytorch&logoColor=CF9E4F) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1E232B?style=flat-square&logo=scikitlearn&logoColor=CF9E4F)
+**AI & Machine Learning** ![PyTorch](https://img.shields.io/badge/PyTorch-1E232B?style=flat-square&logo=pytorch&logoColor=CF9E4F) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1E232B?style=flat-square&logo=scikitlearn&logoColor=CF9E4F)
 
-**Systems & Databases**  
-![Docker](https://img.shields.io/badge/Docker-1E232B?style=flat-square&logo=docker&logoColor=CF9E4F) ![AWS](https://img.shields.io/badge/AWS-1E232B?style=flat-square&logo=amazonwebservices&logoColor=CF9E4F) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E232B?style=flat-square&logo=postgresql&logoColor=CF9E4F) ![MySQL](https://img.shields.io/badge/MySQL-1E232B?style=flat-square&logo=mysql&logoColor=CF9E4F)
+**Systems & Databases** ![Docker](https://img.shields.io/badge/Docker-1E232B?style=flat-square&logo=docker&logoColor=CF9E4F) ![AWS](https://img.shields.io/badge/AWS-1E232B?style=flat-square&logo=amazonwebservices&logoColor=CF9E4F) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E232B?style=flat-square&logo=postgresql&logoColor=CF9E4F) ![MySQL](https://img.shields.io/badge/MySQL-1E232B?style=flat-square&logo=mysql&logoColor=CF9E4F)
 
-**Frameworks & Collaborative**  
-![FastAPI](https://img.shields.io/badge/FastAPI-1E232B?style=flat-square&logo=fastapi&logoColor=CF9E4F) ![Next.js](https://img.shields.io/badge/Next.js-1E232B?style=flat-square&logo=nextdotjs&logoColor=CF9E4F) ![React](https://img.shields.io/badge/React-1E232B?style=flat-square&logo=react&logoColor=CF9E4F) ![Node.js](https://img.shields.io/badge/Node.js-1E232B?style=flat-square&logo=nodedotjs&logoColor=CF9E4F) ![WebSockets](https://img.shields.io/badge/WebSockets-1E232B?style=flat-square&logo=socketdotio&logoColor=CF9E4F) ![Yjs](https://img.shields.io/badge/Yjs-1E232B?style=flat-square&logoColor=CF9E4F)
-
----
+**Frameworks & Collaborative** ![FastAPI](https://img.shields.io/badge/FastAPI-1E232B?style=flat-square&logo=fastapi&logoColor=CF9E4F) ![Next.js](https://img.shields.io/badge/Next.js-1E232B?style=flat-square&logo=nextdotjs&logoColor=CF9E4F) ![React](https://img.shields.io/badge/React-1E232B?style=flat-square&logo=react&logoColor=CF9E4F) ![Node.js](https://img.shields.io/badge/Node.js-1E232B?style=flat-square&logo=nodedotjs&logoColor=CF9E4F) ![WebSockets](https://img.shields.io/badge/WebSockets-1E232B?style=flat-square&logo=socketdotio&logoColor=CF9E4F) ![Yjs](https://img.shields.io/badge/Yjs-1E232B?style=flat-square&logoColor=CF9E4F)
