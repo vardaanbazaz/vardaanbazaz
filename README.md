@@ -1,104 +1,53 @@
 # Vardaan Bazaz
 
 <p align="center">
-  <img src="assets/images/banner.png" alt="Scholarly Workshop Banner" width="100%" height="220" style="object-fit: cover; border-radius: 4px; border: 1px solid #30363d;" />
+  <img src="assets/images/banner.png" alt="Vardaan Bazaz" width="100%" />
 </p>
 
 <p align="center">
-  <strong>Software Engineer • AI/ML • Systems Builder</strong>
-  <br/>
-  <small>Crafting predictable software, intelligent systems, and applied research.</small>
+  <strong>Machine Learning &amp; Software Engineer</strong><br/>
+  Computer vision · full-stack web · C/DSP systems<br/>
+  <sub>Jammu, India · open to remote</sub>
 </p>
 
 <p align="center">
-  <code><a href="https://vardaan-bajaj.vercel.app" style="text-decoration: none; color: #CF9E4F;">portfolio</a></code> &nbsp;•&nbsp;
-  <code><a href="https://www.linkedin.com/in/vardaan-bajaj-a03605254/" style="text-decoration: none; color: #CF9E4F;">linkedin</a></code> &nbsp;•&nbsp;
-  <code><a href="mailto:vardaanbazaz@gmail.com" style="text-decoration: none; color: #CF9E4F;">email</a></code>
+  <a href="https://vardaan-bajaj.vercel.app">portfolio</a> ·
+  <a href="https://www.linkedin.com/in/vardaan-bajaj-a03605254/">linkedin</a> ·
+  <a href="mailto:vardaanbazaz@gmail.com">email</a>
 </p>
 
 ---
 
-### ✦ Core Focus Areas
+### Projects
 
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="33%" style="border: none; padding: 10px; vertical-align: top; text-align: center;">
-      <img src="assets/icons/ai_ml.svg" width="28" height="28" /><br/>
-      <strong style="font-size: 0.95em;">AI / Machine Learning</strong><br/>
-      <small style="color: #A89F84; font-size: 0.85em;">Deep learning & training pipelines</small>
-    </td>
-    <td width="33%" style="border: none; padding: 10px; vertical-align: top; text-align: center;">
-      <img src="assets/icons/computer_vision.svg" width="28" height="28" /><br/>
-      <strong style="font-size: 0.95em;">Computer Vision</strong><br/>
-      <small style="color: #A89F84; font-size: 0.85em;">Detection & edge tracking systems</small>
-    </td>
-    <td width="33%" style="border: none; padding: 10px; vertical-align: top; text-align: center;">
-      <img src="assets/icons/systems_engineering.svg" width="28" height="28" /><br/>
-      <strong style="font-size: 0.95em;">Systems Design</strong><br/>
-      <small style="color: #A89F84; font-size: 0.85em;">Backend & distributed architectures</small>
-    </td>
-  </tr>
-  <tr style="border: none;">
-    <td width="33%" style="border: none; padding: 10px; vertical-align: top; text-align: center;">
-      <img src="assets/icons/full_stack.svg" width="28" height="28" /><br/>
-      <strong style="font-size: 0.95em;">Full-Stack Development</strong><br/>
-      <small style="color: #A89F84; font-size: 0.85em;">Responsive user-centric systems</small>
-    </td>
-    <td width="33%" style="border: none; padding: 10px; vertical-align: top; text-align: center;">
-      <img src="assets/icons/applied_research.svg" width="28" height="28" /><br/>
-      <strong style="font-size: 0.95em;">Applied Research</strong><br/>
-      <small style="color: #A89F84; font-size: 0.85em;">Paper-to-production adaptations</small>
-    </td>
-    <td width="33%" style="border: none; padding: 10px; vertical-align: top; text-align: center;">
-      <img src="assets/icons/product_engineering.svg" width="28" height="28" /><br/>
-      <strong style="font-size: 0.95em;">SaaS & Product</strong><br/>
-      <small style="color: #A89F84; font-size: 0.85em;">Modular & resilient architectures</small>
-    </td>
-  </tr>
-</table>
+**[DataVista](https://github.com/vardaanbazaz/datavista)** — offline business-intelligence app in the browser
+Load a CSV or Excel file and work with it locally: a recursive-descent formula parser, pivot tables, window functions (running totals, rankings), and IndexedDB storage. Optional AI features use your own Gemini or OpenAI key.
+`TypeScript` `React` `Zustand` `IndexedDB`
+
+**[KanbanLight](https://github.com/vardaanbazaz/kanbanlight)** — a Kanban board that borrows ideas from Git · `v0.0.2, early build` · [demo](https://kanbanlight.vercel.app)
+Branch a board, switch between branches, and compare two branches with added, modified and deleted cards highlighted. Data stays in the browser. An optional Node.js CLI drives an open board over a local WebSocket bridge.
+`TypeScript` `React` `IndexedDB` `Node.js`
+
+**[NeuroInsight AI](https://github.com/vardaanbazaz/neuroinsight-ai)** — Parkinson's classification from voice recordings
+Compares Random Forest, XGBoost and other classifiers on the UCI Oxford voice dataset under subject-grouped cross-validation, and tests a composite acoustic feature of its own, the Vocal Instability Compound (VIC).
+`Python` `XGBoost` `scikit-learn`
+
+**[Employee Attrition Prediction](https://github.com/vardaanbazaz/employee-attrition-dashboard)** — flight-risk modelling on IBM HR data
+A modular Python pipeline: SMOTE for class imbalance, XGBoost and Random Forest classifiers, SHAP explanations, and MySQL schema and analysis queries.
+`Python` `XGBoost` `SHAP` `MySQL`
 
 ---
 
-### ✦ Featured Systems & Applied ML
+### Publications
 
-**[DataVista](https://github.com/vardaanbazaz/datavista)** | *Offline-First Business Intelligence*
-A browser-native analytics platform capable of processing massive datasets locally. Engineered with a custom recursive-descent AST formula parser, framework-agnostic pivot engines, and IndexedDB for time-travel state. 
-`TypeScript` `React 18` `IndexedDB` `Zustand` `AST Parsing`
-
-**[NeuroInsight AI](https://github.com/vardaanbazaz/neuroinsight-ai)** | *Explainable Parkinson's Prediction*
-An applied machine learning research project exploring the non-invasive prediction of early-stage Parkinson's Disease. Employs a custom-engineered Feature Performance Index (fPI) and tree-based classifiers to maximize diagnostic interpretability of vocal acoustic biomarkers.
-`Python` `XGBoost` `Scikit-Learn` `Pandas`
-
-**[Employee Attrition Analytics](https://github.com/vardaanbazaz/employee-attrition-dashboard)** | *HR Flight Risk Diagnostics*
-An end-to-end data analytics system designed to diagnose corporate flight risk drivers. Normalizes raw HR telemetry via structured MySQL schemas to serve interactive, filterable Power BI and Tableau dashboards with Random Forest predictive insights.
-`SQL` `MySQL` `Power BI` `Tableau` `Python`
+- **[V-Surveillance: A Hybrid Deep Learning Framework for Real-Time Aerial Surveillance Using Drone Imagery](https://ieeexplore.ieee.org/abstract/document/11399085)** — IEEE CICT 2026 · first author
+- **[An Enhanced Object-Oriented Programming-Based Web Page Linker](https://ieeexplore.ieee.org/abstract/document/10503405)** — IEEE IATMSI 2024
 
 ---
 
-### ✦ Active Builds
+### Stack
 
-* **[KanbanLight](https://github.com/vardaanbazaz/kanbanlight)** &nbsp;`[Active Development]`
-    <br/><small style="color: #A89F84;">A distributed project management tool treating tasks like Git commits. Currently engineering non-destructive board branching, visual state diffing, sandboxed WebAssembly plugins, and a real-time developer WebSocket CLI.</small>
-* **[CropDoc AI](https://github.com/vardaanbazaz/cropdoc-ai)** &nbsp;`[Active Development]`
-    <br/><small style="color: #A89F84;">A production-grade, CPU-optimized computer vision inference microservice built with FastAPI and PyTorch to classify plant pathology and guarantee latency stability under strict engineering constraints.</small>
-
----
-
-### ✦ Publications
-
-* **[V-Surveillance: A Hybrid Deep Learning Framework for Real-Time Aerial Surveillance Using Drone Imagery](https://ieeexplore.ieee.org/abstract/document/11399085)** &nbsp;`[IEEE CICT 2026]`
-    <br/><small style="color: #A89F84;">Developed a three-stage hybrid deep learning framework optimizing real-time edge inference, super resolution, and tracking for UAV surveillance nodes.</small>
-* **[An Enhanced Object-Oriented Programming-Based Web Page Linker](https://ieeexplore.ieee.org/abstract/document/10503405)** &nbsp;`[IEEE IATMSI 2024]`
-    <br/><small style="color: #A89F84;">Designed an optimized OOP architecture to bypass DOM fragility by encapsulating functional divisions into polymorphic class modules.</small>
-
----
-
-### ✦ Engineering Stack
-
-**Languages** ![Python](https://img.shields.io/badge/Python-1E232B?style=flat-square&logo=python&logoColor=CF9E4F) ![TypeScript](https://img.shields.io/badge/TypeScript-1E232B?style=flat-square&logo=typescript&logoColor=CF9E4F) ![C++](https://img.shields.io/badge/C%2B%2B-1E232B?style=flat-square&logo=cplusplus&logoColor=CF9E4F) ![SQL](https://img.shields.io/badge/SQL-1E232B?style=flat-square&logo=postgresql&logoColor=CF9E4F)
-
-**AI & Machine Learning** ![PyTorch](https://img.shields.io/badge/PyTorch-1E232B?style=flat-square&logo=pytorch&logoColor=CF9E4F) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1E232B?style=flat-square&logo=scikitlearn&logoColor=CF9E4F)
-
-**Systems & Databases** ![Docker](https://img.shields.io/badge/Docker-1E232B?style=flat-square&logo=docker&logoColor=CF9E4F) ![AWS](https://img.shields.io/badge/AWS-1E232B?style=flat-square&logo=amazonwebservices&logoColor=CF9E4F) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E232B?style=flat-square&logo=postgresql&logoColor=CF9E4F) ![MySQL](https://img.shields.io/badge/MySQL-1E232B?style=flat-square&logo=mysql&logoColor=CF9E4F)
-
-**Frameworks & Collaborative** ![FastAPI](https://img.shields.io/badge/FastAPI-1E232B?style=flat-square&logo=fastapi&logoColor=CF9E4F) ![Next.js](https://img.shields.io/badge/Next.js-1E232B?style=flat-square&logo=nextdotjs&logoColor=CF9E4F) ![React](https://img.shields.io/badge/React-1E232B?style=flat-square&logo=react&logoColor=CF9E4F) ![Node.js](https://img.shields.io/badge/Node.js-1E232B?style=flat-square&logo=nodedotjs&logoColor=CF9E4F) ![WebSockets](https://img.shields.io/badge/WebSockets-1E232B?style=flat-square&logo=socketdotio&logoColor=CF9E4F) ![Yjs](https://img.shields.io/badge/Yjs-1E232B?style=flat-square&logoColor=CF9E4F)
+**Languages** — Python · TypeScript · C · SQL
+**ML** — PyTorch · scikit-learn · XGBoost · SHAP
+**Web** — React · Node.js · Tailwind CSS
+**Data** — MySQL · IndexedDB · pandas
