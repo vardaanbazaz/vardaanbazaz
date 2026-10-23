@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/images/banner-wide.png" alt="A lamp-lit desk with books, a teapot and two monitors showing code" width="100%" />
+  <img src="assets/images/banner.png" alt="A lamp-lit desk with books, a teapot and two monitors showing code" width="100%" />
 </p>
 
 <h1 align="center">Vardaan Bazaz</h1>
